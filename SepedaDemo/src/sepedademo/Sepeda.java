@@ -19,6 +19,7 @@ public class Sepeda {
     public void setMerek(String newValue)
     {
         merek = newValue;
+	System.out.println("Hallooo");
     }
     public  void setWarna(String warnaspd)
     {
